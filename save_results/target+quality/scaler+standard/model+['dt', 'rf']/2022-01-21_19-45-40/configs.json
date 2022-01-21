@@ -1,0 +1,15 @@
+{
+  "hash": "2022-01-21_19-45-40",
+  "checkpoint_root": "./save_results",
+  "random_state": 0,
+  "verbose": true,
+  "data_dir": "./data",
+  "target": "quality",
+  "train_ratio": 0.6,
+  "model_names": [
+    "dt",
+    "rf"
+  ],
+  "scaler": "standard",
+  "checkpoint_dir": "./save_results\\target+quality\\scaler+standard\\model+['dt', 'rf']\\2022-01-21_19-45-40"
+}

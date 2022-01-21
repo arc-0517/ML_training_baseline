@@ -1,0 +1,2 @@
+random_state,model_name,train_acc,test_acc,train_f1,test_f1
+0,rf,0.8529718456725756,0.60625,0.4403902164951889,0.29003039603118563
